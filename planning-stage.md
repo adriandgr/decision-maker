@@ -7,4 +7,4 @@
 
 
 ## Poll view
-![poll-view](http://adriandgr.github.io/decision-maker/mock-ups/A_poll_view.jpg)
+![poll-view](http://adriandgr.github.io/decision-maker/img/A_poll_view.jpg)
