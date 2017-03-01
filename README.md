@@ -52,5 +52,5 @@ Your projects must use:
 ![erd](http://adriandgr.github.io/decision-maker/img/ERD.gif)
 
 ## Creating a poll mock-up
-![mockups](http://adriandgr.github.io/decision-maker/img/mockups-create-workflow.jpg)
+![mockups](http://adriandgr.github.io/decision-maker/img/mockups-create-flow.jpg)
 
