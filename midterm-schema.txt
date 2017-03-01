@@ -1,0 +1,20 @@
+# midterm proj
+
+## decision maker
+
+# TO-DONE ✓✓✓
+- ERD ✓
+
+# TODO tomorrow ✓:
+- deciding on /routes ×
+  - decide on how many pages we should have
+- task assignment ×
+- wireframe, ie. layout ×
+- a list of dependencies ×
+-
+
+
+
+
+
+
