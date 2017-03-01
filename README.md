@@ -50,3 +50,4 @@ Your projects must use:
 ###Organizing documents
 
 - [Planning/prototyping](https://github.com/adriandgr/decision-maker/blob/planning/mockups/planning-stage.md)
+- [Google Docs](https://drive.google.com/open?id=0Bzqo_QomcKk_TUdnZXZ4YzFPYTg)
