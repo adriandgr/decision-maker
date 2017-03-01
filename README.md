@@ -47,6 +47,8 @@ Your projects must use:
 - git for version control
 - heroku for hosting (hosting is optional)
 
+##ERD for database design
+
 ![erd](http://adriandgr.github.io/decision-maker/img/ERD.gif)
 
 ## Creating a poll mock-up
